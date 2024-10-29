@@ -6,7 +6,7 @@
 * UCI (Seabird - https://www.seabird.com/uci-2-0-4) for SUNA
 * AROD-FT (JFE - in this repo folder) for the AROD-FT oxygen sensor
 * Zissou Premium (Rockland - contact Bastien) for the MR-1000G
-* MIDAS (Nortek - in this repo folder) for the Nortek
+* MIDAS (Nortek - https://gunet-my.sharepoint.com/:u:/r/personal/bastien_queste_gu_se/Documents/Bifogade%20filer/NortekMIDAS_V1.37_R4421_21-01-05-07.zip?csf=1&web=1&e=wbSpHd) for the Nortek
 * VPN for Oman
 
 
