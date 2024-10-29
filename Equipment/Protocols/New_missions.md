@@ -42,6 +42,8 @@
     * 2-point calibration is done on phase data after mission completion.
     * https://oceangliderscommunity.github.io/Oxygen_SOP/README.html# 
   * MR (before SIM dives)
+    * Inspect mounting and make sure weights/cables/metal bits aren't in contact.
+    * Inspect glider for loose bits that could dangle/vibrate. 
     * MR config (ISDP file)
     * Bench test
     * Test probes:
