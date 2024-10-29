@@ -19,6 +19,7 @@
 * Set up mission plan on Glimpse for all gliders.
 * Set up MR-1000G ISDP file; send to field team for review and upload.
 * Set up sea.cfg, sea.msn and seapayload.cfg; send to field team for review and upload.
+* Update the yaml file if we are hosting on VOTO (or for post processing).
 
 ## To do list for field team (last update: Oman 2024 missions)
 * Pick up tails and serial cable to make DIY cable.
