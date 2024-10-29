@@ -30,10 +30,15 @@
   * ADCP  (before SIM dives)
     * compass calibrate
     * Antifouling (see above)
-  * O2 (coda AND arod)  (before SIM dives)
+  * O2 (Arod-FT)  (before SIM dives)
+    * Use AROD software to update 2 point calibration.
     * Calibrate in sodium sulfite.
     * Calibrate in 100% water.
-    * Use AROD software (slack) and Ruskin.
+    * https://oceangliderscommunity.github.io/Oxygen_SOP/README.html# 
+  * O2 (RBR Coda)  (during SIM dives)
+    * Take measurements in sodium sulfite.
+    * Take measurements in 100% water.
+    * 2-point calibration is done on phase data after mission completion.
     * https://oceangliderscommunity.github.io/Oxygen_SOP/README.html# 
   * MR (before SIM dives)
     * MR config (ISDP file)
