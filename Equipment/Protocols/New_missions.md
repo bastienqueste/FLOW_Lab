@@ -32,6 +32,7 @@
     * compass calibrate
     * Antifouling (see above)
   * O2 (Arod-FT)  (before SIM dives)
+    * Verify firmware is upgradd to v1.03
     * Use AROD software to update 2 point calibration.
     * Calibrate in sodium sulfite.
     * Calibrate in 100% water.
