@@ -22,6 +22,7 @@
 * Update the yaml file if we are hosting on VOTO (or for post processing).
 
 ## To do list for field team (last update: Oman 2024 missions)
+* Make backup of contents of PLD and NAV boards.
 * Pick up tails and serial cable to make DIY cable.
 * Test satellite phone
 * Test argo tag
