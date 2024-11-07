@@ -36,11 +36,11 @@ flasher.enable=1
 heading.pid.lowNoise.enable=1
 
 [Linear]
-linear.base=47
+linear.base=30
 
 [Mission]
-mission.mode=3
-mission.num=61
+mission.mode=0
+mission.num=99
 
 [Payload]
 ;pld1.enable=

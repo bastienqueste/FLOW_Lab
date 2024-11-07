@@ -36,11 +36,11 @@ current.correction.saturation=40
 heading.pid.lowNoise.enable=1
 
 [Linear]
-linear.base=37
+linear.base=34
 
 [Mission]
 mission.mode=0
-mission.num=70
+mission.num=73
 
 [Payload]
 ;pld1.enable=
