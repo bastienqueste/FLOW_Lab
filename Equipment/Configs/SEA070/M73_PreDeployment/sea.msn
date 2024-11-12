@@ -1,0 +1,77 @@
+#------------------------------------------------------------------------------#
+#                           SeaExplorer Mission file                           #
+#------------------------------------------------------------------------------#
+# This is the SeaExplorer mission file.                                        #
+#                                                                              #
+# Parameters with ; are commented: the parameters will take the software       #
+#default values (refer to manual). During fabrication or preparation,          #
+#parameters can be changed by deleting the ";" and setting a value.            #
+#------------------------------------------------------------------------------#
+# seanav : >=3.6.1-r                                                           #
+#------------------------------------------------------------------------------#
+
+[Altimeter]
+;altimeter.enable=
+;altimeter.value=
+;altimeter.start.depth=
+
+[Communication]
+iridium.call.main=00881600005212
+iridium.call.rescue=00881600005212
+
+[CurrentCorrection]
+current.correction.enable=1
+current.correction.saturation=40
+
+[Ethernet]
+;ethernet.enable=
+
+[Flasher]
+;flasher.enable=
+
+[GPS]
+;gps.enable=
+
+[Heading]
+heading.pid.lowNoise.enable=1
+
+[Linear]
+linear.base=34
+
+[Mission]
+mission.mode=0
+mission.num=73
+
+[Payload]
+;pld1.enable=
+
+[Pitch]
+;pitch.high.precision=
+;pitch.pid.lowNoise.enable=
+
+[Profile]
+;bd=
+;bu=
+;pd=
+;pi=
+;pu=
+;sr=
+;zb=
+;zs=
+;zt=
+;inflecting.duck.dive.enable=
+inflecting.fly.enable=1
+
+[Radio]
+;radio.enable=
+
+[Security]
+security.state.timeout=5
+security.underwater.timeout=12
+
+[VerticalSpeed]
+vspeed.after.inflecting.enable=1
+vspeed.inib.immersion=5
+;vspeed.pid.lowNoise.enable=
+vspeed.start.bd=-50
+vspeed.start.bu=400
